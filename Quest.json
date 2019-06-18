@@ -1,0 +1,1250 @@
+[
+ {
+   "Quest": "Debut",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Kill 5 Scavs at Customs\n Find or Buy 2 MP-133 shotguns\n Hand over 2 MP-133 shotguns",
+   "Stat Rewards": "600 EXP \n Prapor Rep +.08\n Unlocks purchase of Kalashnikov AKS-74U 5.45x39 at LL1",
+   "Item Rewards": "PM 9x18PM pistol\n 3x 90-93 9x18PM Magazine for 8 PM rounds\n 5000 Roubles"
+ },
+ {
+   "Quest": "Checking",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find Bronze pocket watch on a chain\n Optional Find the Machinery key from the tank truck (in 3 story dorms in room 205 in the brown jacket or buy it off the flea market)\n Hand over Bronze pocket watch on a chain to Prapor",
+   "Stat Rewards": "800 EXP\n Prapor Rep +0.05",
+   "Item Rewards": "4,000 Roubles\n TT pistol 7.62x25 TT\n 3x TT-105 7.62x25 TT Magazine"
+ },
+ {
+   "Quest": "Shootout picnic",
+   "Type": "Elimination",
+   "Map": "Woods",
+   "Objective": "Neutralize 12 Scavs in the Woods (You must wear a balaclava)",
+   "Stat Rewards": "2,000 EXP\n Prapor Rep +0.1",
+   "Item Rewards": "6000 Roubles\n Kalashnikov AKS-74U 5.45x39\n 3x 6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons"
+ },
+ {
+   "Quest": "Delivery from the past",
+   "Type": "Pickup",
+   "Map": "Customs then Factory",
+   "Objective": "(must to do back to back or make sure to put item in offline stash if you die you need to go back to customs to get the docs)\n Find a Secure case for documents 0022 (under the desk on top of the drawers in the room you need to breach to get in) in the Tarcone Director's Office (requires custom office key found on scavs or in drawers or at lvl 2 Therapist you can buy it for 3x gold chains) at the Customs terminal (Big Red)\n Leave the case in the Factory swing room on 2nd floor of shop 3 (hut by gate 3) Survive and exit Factory location",
+   "Stat Rewards": "4100 EXP\n Prapor Rep +.01\n Unlocks purchase of 5.45x39 PS at LL1",
+   "Item Rewards": "12000 Roubles\n Saiga 12ga ver. 10 12x76 assault rifle\n 3x Sb.5 5-round 12x76 magazine for SOK-12 and compatible weapons"
+ },
+ {
+   "Quest": "BP depot",
+   "Type": "Discover",
+   "Map": "Customs",
+   "Objective": "(keep the markers in your secured container so if you dont die you dont lose them)\n tanker locations are old gas station in the back/new gas station careful for scav boss/construction same one as checking/on the road between crossroads and trailer park ecav) \n Mark fuel tank ?1 with MS2000 Marker\n Mark fuel tank ?2 with MS2000 Marker\n Mark fuel tank ?3 with MS2000 Marker\n Mark fuel tank ?4 with MS2000 Marker\n Survive and leave the area",
+   "Stat Rewards": "2,900 EXP\n Prapor Rep +0.08",
+   "Item Rewards": "8000 Roubles\n 3x RGD-5 hand grenade"
+ },
+ {
+   "Quest": "Bad rep evidence",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find Secure case for documents 0031 in a bunkhouse at Customs (its in the right of the two bunk house)\n Find the factory exit key (found in 3 story dorms entrance next to tv) to access the closed room in the Factory offices (right side of breach room) to find the Portable cabin key of customs Factory zone key on the ground under the jacket on the wall or just buy them it off the flea market\n Survive and extract\n Hand over Secure case for documents 0031 to Prapor",
+   "Stat Rewards": "4200 EXP\n Prapor Rep +0.1\n Unlocks purchase of Zenit-Belomo PSO 1M2-1 4x24 scope at LL2",
+   "Item Rewards": "16000 Roubles\n PP-91 Klin 9x18PMM SMG\n 3x Standard 9x18PM 30-round magazine for PP-91"
+ },
+ {
+   "Quest": "Ice cream cones",
+   "Type": "Pickup",
+   "Map": "Woods",
+   "Objective": "Find or Buy 6 60-round 6L31 5.45x39 magazine for AK-74 and compatibles\n Find the Key ZB-014 from the bunker in the Terragroup employee room\n Locate the right Key ZB-014 in the Woods Hand over 6 60-round 6L31 5.45x39 magazine for AK-74 and compatibles to Prapor",
+   "Stat Rewards": "5400 EXP\n Prapor Rep +0.08\n Unlocks barter for 60-round 6L31 5.45x39 magazine for AK-74 and compatibles at LL2",
+   "Item Rewards": "3x 60-round 6L31 5.45x39 magazine for AK-74 and compatibles\n 17000 Roubles\n 100x 5.45x39 mm BP"
+ },
+ {
+   "Quest": "Postman Pat - Part 1",
+   "Type": "Pickup",
+   "Map": "Factory",
+   "Objective": "Find a Sealed letter on a messenger in the Factory (on the dead scav in the green lit room under servers)\n Survive and exit Factory location\n Hand over the letter to Therapist",
+   "Stat Rewards": "6000 EXP\n Prapor Rep +0.08",
+   "Item Rewards": "19000 Roubles\n Flyye MBSS Backpack"
+ },
+ {
+   "Quest": "Shaking up teller",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find something Bank case in the dorm room 203 \n Gain Dorm room 214 Key (The key can be found between pallets in a garage with the number 88 on the western side of Customs) to room 214 (room 203 key is inside the red mug)\n Survive and exit Customs\n Hand over the item to Prapor",
+   "Stat Rewards": "6100 EXP\n Prapor Rep +0.08\n Unlocks purchase of PBS-4 5.45x39 Silencer at LL3\n Unlocks purchase of Hexagon 12K sound suppressor at LL2",
+   "Item Rewards": "22000 Roubles"
+ },
+ {
+   "Quest": "The Punisher - Part 1",
+   "Type": "Elimination",
+   "Map": "Shoreline",
+   "Objective": "Kill 25 Scavs at the Shoreline using AKM series weapon",
+   "Stat Rewards": "10800 EXP\n Prapor Rep +0.08\n Unlocks purchase of SV-98 bolt-action sniper rifle at LL3",
+   "Item Rewards": "40000 Roubles\n 6B43 6A Armor"
+ },
+ {
+   "Quest": "The Punisher - Part 2",
+   "Type": "Elimination",
+   "Map": "Woods/Shoreline",
+   "Objective": "Kill 20 Scavs at the Shoreline using a suppressed weapon\n Find in raid 10 Lower half-masks\n Hand masks over to Prapor",
+   "Stat Rewards": "13900 EXP\n Prapor Rep +0.1",
+   "Item Rewards": "70000 Roubles"
+ },
+ {
+   "Quest": "The Punisher - Part 3",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 50 Scavs on Customs using AKS-74U",
+   "Stat Rewards": "12400 EXP\n Prapor Rep +0.08\n Skier Rep +0.05",
+   "Item Rewards": "2500 Dollars\n DVL-10 Saboteur sniper rifle"
+ },
+ {
+   "Quest": "The Punisher - Part 4",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Kill 15 Scavs in Woods using 12 gauge shotguns\n Kill 15 PMCs on Shoreline (You must wear a balaclava and scav vest)\n Find 10 Bars A-2607 knives\n Handover knives to Prapor",
+   "Stat Rewards": "19000 EXP\n Prapor Rep +0.12\n Unlocks purchase of 5.45x39 mm BT at LL3",
+   "Item Rewards": "Colt M4A1 5.56x45 Assault Rifle\n 100,000 Roubles\n Unlocks purchase of 5.45x39 mm BT at LL3"
+ },
+ {
+   "Quest": "The Punisher - Part 5",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Find or Buy 3 AK-74N\n Handover AK-74N rifles to Prapor\n Find or Buy 3 M4A1 assault rifles\n Handover M4A1 rifles to Prapor\n Find or Buy 5 PM pistols\n Handover pistols to Prapor\n Kill 15 PMC operatives (You must be wearing a PACA vest and 6b47 helmet)",
+   "Stat Rewards": "19300 EXP\n Prapor Rep +0.12\n Unlocks purchase of 7.62x39 mm BP at LL3",
+   "Item Rewards": "5000 Dollars\n Pistol case\n Documents case"
+ },
+ {
+   "Quest": "The Punisher - Part 6",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 20 PMC operators (You must use SVD)\n Bring 10 PMC USEC dogtags\n Hand over 10 PMC USEC dogtags\n Bring 10 PMC BEAR dogtags\n Hand over 10 PMC BEAR dogtags",
+   "Stat Rewards": "20600 EXP\n Prapor Rep +0.12\n Skier Rep +0.06\n Therapist Rep +0.15",
+   "Item Rewards": "250000 Roubles\n Secure container Epsilon"
+ },
+ {
+   "Quest": "Polikhim hobo",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Kill 20 Scavs at Customs in time period from 3 p.m. to 10 p.m.",
+   "Stat Rewards": "7000 EXP\n Prapor Rep +0.1",
+   "Item Rewards": "17000 Roubles\n 4x F-1 Hand grenade"
+ },
+ {
+   "Quest": "Big customer",
+   "Type": "Completion",
+   "Map": "Customs",
+   "Objective": "Find a transport with chemicals\n Mark the chemical transport with a beacon\n Survive and extract Customs\n (You either give this one to Skier, Prapor or Therapist)",
+   "Stat Rewards": "8200 EXP\n Prapor Rep +0.1",
+   "Item Rewards": "200000 Roubles\n PACA Soft Armor"
+ },
+ {
+   "Quest": "No offence",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find 10 M67 Hand grenades\n Hand over grenades to Prapor\n (Only given if you didnt complete Big Customer and turned in the quest to Therapist or Skier)",
+   "Stat Rewards": "Prapor Rep +0.4",
+   "Item Rewards": ""
+ },
+ {
+   "Quest": "Grenadier",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 12 PMC's with grenades",
+   "Stat Rewards": "21300 EXP\n 50000 Roubles\n Unlocks barter for 8 pcs pack of 9x39 7N12 BP ammo at LL4",
+   "Item Rewards": "7x F-1 Hand grenade\n 240x 5.45x39 mm BT"
+ },
+ {
+   "Quest": "Perfect mediator",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Reach 4-th level of standing with Ragman\n Reach 4-th level of standing with Skier\n Reach 4-th level of standing with Mechanic\n Reach 4-th level of standing with Peacekeeper\n Reach 4-th level of standing with Prapor\n Reach 4-th level of standing with Therapist",
+   "Stat Rewards": "17200 EXP\n Prapor Rep +0.9",
+   "Item Rewards": "55000 Roubles\n T H I C C Weapon case"
+ },
+ {
+   "Quest": "Insomnia",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 30 PMC's during nighttime (23 to 04)",
+   "Stat Rewards": "18500 EXP",
+   "Item Rewards": "85000 Roubles\n 3x PNV-10T Night Vision\n 3x 2P Klesch flashlight + laser designator"
+ },
+ {
+   "Quest": "Test drive - Part 1",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 20 PMC's using an M1A with a Hybrid 46 silencer and a Trijicon REAP-IP thermal scope",
+   "Stat Rewards": "31000 EXP\n Prapor Rep +0.12",
+   "Item Rewards": "300000 Roubles\n 2x RPK-16 5.45x39 light machine gun\n 6x 95-round 5.45x39 magazine for RPK-16 and compatibles\n 5x Golden neck chain"
+ },
+ {
+   "Quest": "Shortage",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or Buy 5 Salewa kits\n Hand over 5 Salewa kits to Therapist\n (These don�t need to be full either)",
+   "Stat Rewards": "500 EXP\n Therapist Rep +0.07",
+   "Item Rewards": "10000 Roubles\n 4x Analgin painkillers\n 4x AI-2 medikit\n 4x Immobilizing splint"
+ },
+ {
+   "Quest": "Sanitary Standards - Part 1",
+   "Type": "Pickup",
+   "Map": "Factory",
+   "Objective": "Find in raid gas analyzer\n Get access to the pumping station at the Factory (key spawns on non extract side bathrooms on the bench)\n Hand over the gas analyzer to Therapist\n (Interchange has these pretty common)",
+   "Stat Rewards": "2200 EXP\n Therapist Rep +0.09\n Unlocks purchase of Car first aid kit at LL1",
+   "Item Rewards": "2x Car first aid kit\n 14,000 Roubles"
+ },
+ {
+   "Quest": "Sanitary Standards - Part 2",
+   "Type": "Completion",
+   "Map": "Any",
+   "Objective": "Find or Buy 3 Gas analyzers \n Hand over 3 Gas analyzers to Therapist",
+   "Stat Rewards": "4500 EXP\n Therapist Rep +0.09",
+   "Item Rewards": "18000 Roubles"
+ },
+ {
+   "Quest": "Operation Aquarius - Part 1",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find hidden water in the dorm\n (in two story dorms room 206 this key is very common on scavs or buy it off the flea market)\n Survive and extract Customs",
+   "Stat Rewards": "3400 EXP\n Therapist Rep +0.09\n Skier Rep -0.08",
+   "Item Rewards": "14000 Roubles\n 8x 0.6L water bottle"
+ },
+ {
+   "Quest": "Operation Aquarius - Part 2",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Eliminate 15 Scavs on Customs",
+   "Stat Rewards": "3400 EXP\n Therapist Rep +0.09\n Skier Rep -0.08\n Unlocks purchase of Army bandage at LL2",
+   "Item Rewards": "15000 Roubles\n 3x Army bandage"
+ },
+ {
+   "Quest": "Painkiller",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find in raid 5 morphine syringes\n Hand the syringes over to Therapist\n (Scav Bosses and Raiders on Lab commonly have these plus med bags)",
+   "Stat Rewards": "4600 EXP\n Therapist Rep +0.09",
+   "Item Rewards": "17000 Roubles\n 10x Analgin painkillers"
+ },
+ {
+   "Quest": "Pharmacist",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find a case with the device (2 story dorm room 114)\n Find the paramedic's car (car with blue jacket infront of checkpoint) to get key \n Get into dorm room 114\n Hand over the case to Therapist",
+   "Stat Rewards": "5900 EXP\n Therapist Rep +0.09\n Unlocks barter for 6B47 Helmet camouflaged at Ragman LL2",
+   "Item Rewards": "25000 Roubles\n 4x IFAK personal tactical first aid kit"
+ },
+ {
+   "Quest": "Supply plans",
+   "Type": "Pickup",
+   "Map": "Woods",
+   "Objective": "Find the secure folder on the sawmill (cabin number 3 in the lumber yard under the first bed)\n Survive and exit Woods location\n Hand over the folder to Therapist",
+   "Stat Rewards": "7700 EXP\n Therapist Rep +0.09",
+   "Item Rewards": "70000 Roubles"
+ },
+ {
+   "Quest": "General wares",
+   "Type": "Completion",
+   "Map": "Any",
+   "Objective": "Find in raid 15 cans of meat\n Hand the cans over to Therapist\n (Goshan on interchange on the back shelves is the best place)",
+   "Stat Rewards": "5000 EXP\n Therapist Rep +0.07",
+   "Item Rewards": "4x Can of pacific saury\n 2x Iskra lunch box"
+ },
+ {
+   "Quest": "Car repair",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find in raid 4 car batteries\n Find in raid 8 spark plugs\n Hand car batteries over to Therapist\n Hand spark plugs over to Therapist\n (Oli on interchange warehouses, Cabinets)",
+   "Stat Rewards": "7600 EXP\n Therapist Rep +0.08",
+   "Item Rewards": "1500 Dollars\n 2x Grizzly First Aid Kit"
+ },
+ {
+   "Quest": "Health Care Privacy - Part 1",
+   "Type": "Discover",
+   "Map": "Shoreline",
+   "Objective": "Mark 1st ambulance (tunnel exit on Shoreline)\n Mark 2nd ambulance (tunnel ext on Shoreline)\n Mark 3rd ambulance (Resort by the helicopter under skybridge)\n Survive and exit the location",
+   "Stat Rewards": "6500 EXP\n Therapist Rep +0.07\n Unlocks purchase of IFAK personal tactical first aid kit at LL3",
+   "Item Rewards": "22000 Roubles\n 2x IFAK personal tactical first aid kit"
+ },
+ {
+   "Quest": "Health Care Privacy - Part 2",
+   "Type": "Discover",
+   "Map": "Shoreline",
+   "Objective": "Gather info on the fate of the Terragroup research\n (Shoreline West Wing room 306 (Key is found in the bathrooms on Factory)\n Hand over info on the fate of the Terragroup research\n Survive and exit the location",
+   "Stat Rewards": "8600 EXP\n Therapist Rep +0.09",
+   "Item Rewards": "24000 Roubles\n 4x Salewa FIRST AID KIT"
+ },
+ {
+   "Quest": "Health Care Privacy - Part 3",
+   "Type": "Discover",
+   "Map": "Woods",
+   "Objective": "Find the car that belonged to the head of the Medical Service\n (Crashed mini van on western side of the lake on woods) \n Pick up the blood sample\n Hand over the blood sample\n (the hit box is a little weird)\n Survive and exit the location",
+   "Stat Rewards": "9400 EXP\n Therapist Rep +0.09\n Unlocks purchase of Morphine injector at LL4",
+   "Item Rewards": "26000 Roubles\n 2x Morphine injector"
+ },
+ {
+   "Quest": "Health Care Privacy - Part 4",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Increase Health skill level to 7",
+   "Stat Rewards": "10200 EXP\n Therapist Rep +0.09",
+   "Item Rewards": "29000 Roubles\n 2x Grizzly First Aid Kit"
+ },
+ {
+   "Quest": "Health Care Privacy - Part 5",
+   "Type": "Skill",
+   "Map": "Factory",
+   "Objective": "Locate the drop spot in the nighttime in Factory\n (breach room )\n Obtain 3 packs of gunpowder and leave them in the designated spot",
+   "Stat Rewards": "13300 EXP\n Therapist Rep +0.1",
+   "Item Rewards": "35000 Roubles\n Meds case"
+ },
+ {
+   "Quest": "Postman Pat - Part 2",
+   "Type": "Pickup",
+   "Map": "Factory",
+   "Objective": "Hand over the letter from messenger to the Therapist",
+   "Stat Rewards": "4200 EXP\n Therapist Rep +0.06\n Unlocks purchase of Salewa FIRST AID KIT at LL2",
+   "Item Rewards": "5000 Roubles"
+ },
+ {
+   "Quest": "Out of curiosity",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find a transport with chemicals\n Mark the chemical transport with a beacon\n Survive and extract Customs\n (This is same quest as Big Customer and Chemical Part 4 but you have to choice to give it too)",
+   "Stat Rewards": "8300 EXP\n Therapist Rep +0.3",
+   "Item Rewards": "170000 Roubles"
+ },
+ {
+   "Quest": "Trust regain",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "(You only get this if you dont choose Therapist)\n Find or Buy 303 dorm room key (Pockets or bags of scavs)\n Find or Buy ZB-014 key (On the desk in dorm room 220 (Partially under blue clothing in a train car same one for Chemical Part 1) or Pockets or bags of scavs)\n Find or Buy the customs military checkpoint key (Sitting next to the Dead Scav on the couch in the boilers in Cusomts)\n Find or Buy gas station closet key (Under the Desk in the new gas station office or Pockets and bags of Scavs)\n Hand over 303 key\n Hand over ZB-014 key\n Hand over the checkpoint key\n Hand over closet key",
+   "Stat Rewards": "Therapist Rep +0.3",
+   "Item Rewards": ""
+ },
+ {
+   "Quest": "Hippocratic Vow",
+   "Type": "Completion",
+   "Map": "Any",
+   "Objective": "Handover 500 dollars",
+   "Stat Rewards": "Therapist Rep +0.2",
+   "Item Rewards": ""
+ },
+ {
+   "Quest": "Private clinic",
+   "Type": "Completion",
+   "Map": "Labs",
+   "Objective": "Find or Buy 3 Ophthalmoscopes (Lab Block of second floor of Labs)\n Find or Buy 3 LEDX Skin Transilluminators (Inside the orange dome in the Main Working Area of The Lab On top of one of the barrels near the left rear side of the dome from the entrance On the barrel in front of the forklift On top of a barrel just to the right of the entrance\n In the server room office (B12), next to the left most laptop)\n Handover 3 Ophthalmoscopes\n Handover 3 LEDX Skin Transilluminators",
+   "Stat Rewards": "20100 EXP\n Therapist Rep +0.11",
+   "Item Rewards": "130000 Roubles\n 1x T H I C C Items case\n 1x West wing room 306 key"
+ },
+ {
+   "Quest": "Athlete",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Earn 10 Health skill level",
+   "Stat Rewards": "19600 EXP\n Therapist Rep +0.11\n Unlocks purchase of Adrenaline injector at LL4",
+   "Item Rewards": "110000 Roubles\n 3x Hemostatic drug Zagustin\n 3x Adrenaline injector"
+ },
+ {
+   "Quest": "Decontamination service",
+   "Type": "Elimination",
+   "Map": "Interchange",
+   "Objective": "Kill 30 Scavs at the Interchange, from the range less than 60 meters.\n You must be wearing spec. gear (respirator and an M3 armor)",
+   "Stat Rewards": "21600 EXP\n Therapist Rep +0.11",
+   "Item Rewards": "300000 Roubles\n 3x Morphine injector\n 3x IFAK personal tactical first aid kit"
+ },
+ {
+   "Quest": "Supplier",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or Buy 4 3m body armors\n Hand over 4 3m body armor to Skier\n Find or Buy 4 Toz-106\n Hand over 4 shotguns to Skier",
+   "Stat Rewards": "3300 EXP\n Skier Rep +0.12\n Unlocks purchase of Saiga-9 9x19 Carbine at LL1",
+   "Item Rewards": "60000 Roubles"
+ },
+ {
+   "Quest": "The Extortionist",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find the hidden valuable cargo\n Find the messenger body (Bush near the \"welcome to Tarkov truck\" with the body where you find the Unknown key) \n Find a place where the messenger hid the item (Cabin by Factory shortcut)\n Hand it over to Skier",
+   "Stat Rewards": "3200 EXP\n Skier Rep +0.08",
+   "Item Rewards": "500 Dollars\n Vepr AKM / VPO-209 366TKM carbine\n 3x Izhmash AK magazine (issued �55 or later) 30-round for 7.62x39 AK and compatibles"
+ },
+ {
+   "Quest": "Stirrup",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Eliminate 6 PMC operators. You must be using pistols",
+   "Stat Rewards": "4700 EXP\n Skier Rep +0.12\n Prapor Rep -0.12\n Therapist Rep -0.05\n Unlocks purchase of Vepr AKM / VPO-209 366TKM carbine at LL1",
+   "Item Rewards": "65000 Roubles\n Camelbak Tri-Zip Backpack"
+ },
+ {
+   "Quest": "What's on the flash drive?",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or buy two USB flash drives with information (tent on woods or in computers)\n Hand them over to Skier",
+   "Stat Rewards": "4500 EXP\n Skier Rep +0.1",
+   "Item Rewards": "30000 Roubles\nSimonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version\n 2x ProMag SKS-A5 7.62x39 20-round SKS magazine"
+ },
+ {
+   "Quest": "Golden swag",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Find a Gilded Zibbo Lighter (room 303 in 3 story dorms key is found on scavs)\nLeave the lighter in the bunkhouse in the trailer parking Customs (by trailer park ecav in the fenced in area with trailers and bus)",
+   "Stat Rewards": "4600 EXP\nSkier Rep +0.1\nUnlocks purchase of VOMZ Pilad P1X42 \"WEAVER\" reflex sight at LL2",
+   "Item Rewards": "17000 Roubles\nAS VAL\n3x 20-round 6L25 9x39 VSS magazine"
+ },
+ {
+   "Quest": "Chemical - Part 1",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find some information about the Deputy Chief's past life\nFind a sleeping place of the former Deputy Chief of Security (south-west corner of the traincar between the pallet and the wall on Customs)\nHand it over to Skier\nFind items that can help the investigation (Room 220 key found in the same train car under the blue pants on the mattress)\nHand them over to Skier\nYou do get the key back",
+   "Stat Rewards": "4800 EXP\nSkier Rep +0.08",
+   "Item Rewards": "15000 Roubles\nPACA Soft Armor\n"
+ },
+ {
+   "Quest": "Chemical - Part 2",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Room 220 in 3 story dorms on Customs\nFind any information that could help with the investigation (Sealed letter on the shelving by the binders)\nHand it over to Skier\nFind any information that could help with the investigation (usb stick stuck in the side of the laptop in the room)\nHand it over to Skier",
+   "Stat Rewards": "4900 EXP\nSkier Rep +0.08\nUnlocks purchase of SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons at LL2",
+   "Item Rewards": "15000 Roubles\n3x F-1 Hand grenade\n"
+ },
+ {
+   "Quest": "Chemical - Part 3",
+   "Type": "Pickup",
+   "Map": "Factory",
+   "Objective": "Find a Syringe with a chemical in the Factory (in the filing cabinet in breach room)\nHand over the syringe to Skier",
+   "Stat Rewards": "5400 EXP\nSkier Rep +0.08",
+   "Item Rewards": "17000 Roubles\n2x Zenit-Belomo PSO 1M2-1 4x24 scope"
+ },
+ {
+   "Quest": "Chemical - Part 4",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find a transport with chemicals (in the first warehouse on the ZB-1012 side mark the van in there)\nMark the chemical transport with a beacon\nSurvive and extract Customs\n(You get the option to turn this into Prapor (Big Customer), or Therapist (Out of curiosity) which whoever you dont turn it into unlocks their loyalty regain)",
+   "Stat Rewards": "6600 EXP\nSkier Rep +0.1\nUnlocks purchase of ZSh-1-2M helmet (black) at Ragman LL3 (its 20000 cheaper than the original option)\n",
+   "Item Rewards": "\n75000 Roubles\n"
+ },
+ {
+   "Quest": "Loyalty buyout",
+   "Type": "Loyalty",
+   "Map": "Any",
+   "Objective": "Give 1 million roubles to Skier (this is only if you turned in Big Customer or Out of curiosity)",
+   "Stat Rewards": "Skier Rep +0.3",
+   "Item Rewards": ""
+ },
+ {
+   "Quest": "Friend from the West - Part 1",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 5 USECs\nFind or Buy 2 Flyye MBSS Backpacks \nHand over 2 Flyye MBSS Backpacks (Make sure they are empty because it takes everything inside of them)\nFind or Buy 4 AVS vests\nHand over 4 AVS vests (Make sure they are empty because it takes everything inside of them)",
+   "Stat Rewards": "10800 EXP\nSkier Rep +0.14\n\n",
+   "Item Rewards": "700 Dollars\nColt M4A1 5.56x45 Assault Rifle"
+ },
+ {
+   "Quest": "Friend from the West - Part 2",
+   "Type": "Merchant",
+   "Map": "Any",
+   "Objective": "Hand over $6000\n(This unlocks Peacekeeper quests)",
+   "Stat Rewards": "9200 EXP\nSkier Rep +0.12",
+   "Item Rewards": ""
+ },
+ {
+   "Quest": "Vitamins - Part 1",
+   "Type": "Pickup",
+   "Map": "Shoreline/ Interchange",
+   "Objective": "(You need to extract successfully to keep them)\nGet first Chemical container (SHORELINE) (office 112 west wing key needed (found in the bus at the bus depot on shoreline) container is inside of the fridge)\nHand over first Chemical container\nGet second Chemical container (INTERCHANGE) (emercon key needed (found in the crashed ambulance at new gas on customs) in the round container in the middle of Emercon)\nHand over second Chemical container\nGet third Chemical container (INTERCHANGE)(in mantis in the back in a metal tin)\nHand over third Chemical container",
+   "Stat Rewards": "14100 EXP\nSkier Rep +0.1\n",
+   "Item Rewards": "37000 Roubles\n3x Holosun HS401G5 reflex sight"
+ },
+ {
+   "Quest": "Vitamins - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find in raid 5 Respirator\nHand over Respirator, 5 pcs\nFind or Buy Medical bloodset, 5 pcs\nHand over Medical bloodset, 5 pcs",
+   "Stat Rewards": "17200 EXP\nSkier Rep +0.12",
+   "Item Rewards": "40000 Roubles\n5x Morphine injector"
+ },
+ {
+   "Quest": "Lend lease - Part 1",
+   "Type": "Pickup",
+   "Map": "Woods/Shoreline",
+   "Objective": "Get first Motor Controller (WOODS) (found in the center console of the black SUV at checkpoint on the eastern side of lumber camp)\nHand over first controller\nGet second Motor Controller (SHORELINE) (found near the road to customs extract in a broken wooden box (its right by the uav))\nHand over second controller\nGet third Motor Controller (SHORELINE) (found in east wing 306 on the balcony inside of the cardboard box)(you need either the east wing 306 (big red of customs in the breach office on the desk)  or 308 key (on woods, cabin #1 on top of the night stand))\nHand over third controller\nGet first Single-axis Fiber Optic Gyroscope (WOODS) (found in open black box in the back of the blue pickup in the lumber camp)\nHand over first Single-axis Fiber Optic Gyroscope\nGet second Single-axis Fiber Optic Gyroscope (SHORELINE) (found in west wing room 216 in the metal cabinet)(you need the west wing room (located on the desk of the theatre building of the Health Resort)\nHand over second Single-axis Fiber Optic Gyroscope",
+   "Stat Rewards": "20000 EXP\nSkier Rep +0.12",
+   "Item Rewards": "3500 Dollars"
+ },
+ {
+   "Quest": "Informed means armed",
+   "Type": "Completion",
+   "Map": "Woods/Customs/Interchange",
+   "Objective": "Install a WIFI camera to watch the pier (WOOODS) (pile of wood near the pier)\nInstall the WIFI camera to watch the road to port (Customs)(this one is a bit tricky to explain but in the bush by the blue containers between smugglers boat extraction and dorms)\nInstall the WIFI camera to watch Kiba Arms store (Interchange) (On top covered boxes in Brutal shop looking towards Kiba)",
+   "Stat Rewards": "15900 EXP\nSkier Rep +0.1\n",
+   "Item Rewards": "45000 Roubles\n2x Fab Defense UAS for AK"
+ },
+ {
+   "Quest": "Chumming",
+   "Type": "Completion",
+   "Map": "Woods/Customs/Interchange",
+   "Objective": "Stash 3 gold chains under the mattress next to BTR-80A (INTERCHANGE) (Bed in the Generic Store)\nStash 3 gold chains in the microwave on the 3rd floor of dorms (CUSTOMS) (3 story dorms microwave)\nStash 3 gold chains in the middle accommodation unit of the sawmill (WOODS) (lumber yard cabin number 2 on the book on the bed)\nKill 10 PMC operators on Interchange in time period from 11:00 p.m. till 10:00 a.m. ",
+   "Stat Rewards": "22000 EXP\nSkier Rep +0.12\n",
+   "Item Rewards": "65000 Roubles\nRoler submariner gold wrist watch"
+ },
+ {
+   "Quest": "Kind of sabotage",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Hand over folder 0052 to Skier\n(You give this complete Supply plans or to skier for Kind of sabotage)",
+   "Stat Rewards": "4600 EXP\nSkier Rep +0.3",
+   "Item Rewards": "180000 Roubles"
+ },
+ {
+   "Quest": "Silent caliber",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 20 Scavs with a suppressed 12 gauge shotgun\nKill 10 PMC's with a suppressed 12 gauge shotgun",
+   "Stat Rewards": "12900 EXP\nSkier Rep +0.09\n",
+   "Item Rewards": "100000 Roubles\nDVL-10 Saboteur sniper rifle"
+ },
+ {
+   "Quest": "Flint",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Earn 13 Stress Resistance skill level",
+   "Stat Rewards": "20000 EXP\nSkier Rep +0.08\nUnlocks barter for M-2 Tactical Sword at LL4\n",
+   "Item Rewards": "150000 Roubles"
+ },
+ {
+   "Quest": "Bullshit",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Find False flash drive (trunk of the red car on the main bridge from big red towards construction)\nPut fake flash drive (Dorms, 3-rd floor. Pile of trash opposite the stairs)\nPut sniper rifle SV-98 (Dorms, 3-rd floor. Pile of trash opposite the stairs\nPut Roler watch (Dorms, 3-rd floor. Pile of trash opposite the stairs)\n*Do not kill Scavs at Customs until the quest is completed*",
+   "Stat Rewards": "29700 EXP\nSkier Rep +0.07\nUnlocks barter for 5 pcs. 12x70 DIPP ammo box at LL3",
+   "Item Rewards": "120000 Roubles"
+ },
+ {
+   "Quest": "Setup",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Kill 15 PMC's at Customs\nYou must be wearing spec. gear (MP-133 or MP-153 shotgun while wearing a Ushanka cap and Scav Vest)",
+   "Stat Rewards": "29300 EXP\nSkier +0.07\nUnlocks barter for 20 pcs. 9x19 mm DIPP ammo box at LL4\n",
+   "Item Rewards": "100000 Roubles\n"
+ },
+ {
+   "Quest": "Fishing Gear",
+   "Type": "Completion",
+   "Map": "Shoreline",
+   "Objective": "Find the secret spot (The place is the beached boat on the shore by gas station)\nLeave sniper rifle (SV-98) in place \nLeave multitool in place\nSurvive and leave the area",
+   "Stat Rewards": "5400 EXP\nPeacekeeper Rep +0.06\nUnlocks purchase of Aimpoint Micro T-1 reflex sight at LL1\n",
+   "Item Rewards": "800 Dollars\nKiver-M Helmet\n"
+ },
+ {
+   "Quest": "Tigr Safari",
+   "Type": "Discover",
+   "Map": "Customs",
+   "Objective": "Mark first Tigr (UN Humvee) vehicle at Customs (in front of construction on the road)\nMark second Tigr (UN Humvee) vehicle at Customs (half-way from military checkpoint and new gas)\nMark third Tigr (UN Humvee) vehicle at Customs (military checkpoint near hole in the wall)\nSurvive and leave the area",
+   "Stat Rewards": "6600 EXP\nPeacekeeper Rep +0.07\n",
+   "Item Rewards": "900 Dollars\nANA Tactical Alpha chest rig\n2x 60-round MAG5-60 5.56x45 STANAG magazine"
+ },
+ {
+   "Quest": "Scrap Metal",
+   "Type": "Discover",
+   "Map": "Shoreline",
+   "Objective": "Mark first tank T-90 at Shoreline (in the village on the road towards rock passage)\nMark second tank T-90 at Shoreline (bunker by rock passage)\nMark third tank T-90 at Shoreline (crashed on a bridge between Power station and radio tower)\nSurvive and leave the area",
+   "Stat Rewards": "7200 EXP\nPeacekeeper Rep +0.07\nUnlocks purchase of HK MP5 9x19 submachinegun (Navy 3 Round Burst) \"SD\" variant at LL2\n",
+   "Item Rewards": "850 Dollars\n2x AKM 7.62x39 assault rifle\n200x 7.62x39 mm PS\n"
+ },
+ {
+   "Quest": "Eagle Eye",
+   "Type": "Pickup",
+   "Map": "Shoreline",
+   "Objective": "Find the first UAV crash site (west of the bunker by rock passage)\nFind SAS disk from the first crashed drone (open the panel on the side)\nHand over SAS disk from the first crashed drone \nFind the second UAV crash site (field east of the radio tower (near the second motor controller for lend lease)\nFind SAS disk from the second crashed drone (open the panel on the side)\nHand over SAS disk from the second crashed drone",
+   "Stat Rewards": "7300 EXP\nPeacekeeper Rep +0.07\n",
+   "Item Rewards": "900 Dollars\nLeupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope\nELCAN SpecterDR 1x/4x Scope FDE"
+ },
+ {
+   "Quest": "Humanitarian Supplies",
+   "Type": "Discover",
+   "Map": "Shoreline",
+   "Objective": "Mark first truck with lost UN cargo\n(Blue walled constuction area of Shoreline)\nMark second truck with lost UN cargo\n(north side of resort)\nFind or buy 5 MRE ration packs\nDeliver 5 MRE ration packs to Peacekeeper\nKill 10 Scavs at the Shoreline. You must be wearing UN uniform (MF-UNTAR armor vest and UNTAR helmet)\nSurvive and leave the area",
+   "Stat Rewards": "7400 EXP\nPeacekeeper Rep +0.07\nUnlocks purchase of Hexagon AK-74 5.45x39 sound suppressor at Skier LL2\n",
+   "Item Rewards": "800 Dollars"
+ },
+ {
+   "Quest": "The Cult - Part 1",
+   "Type": "Exploration",
+   "Map": "Shoreline",
+   "Objective": "Find the missing informant (in the sunken city you can follow the blood train from the churh to the house or it is the south most house toward the village)\nSurvive and leave the area",
+   "Stat Rewards": "6700 EXP\nPeacekeeper Rep +0.06\nUnlocks purchase of 5.56x45 mm M856A1 at LL2\n",
+   "Item Rewards": "700 Dollars\n3x Golden neck chain\n"
+ },
+ {
+   "Quest": "The Cult - Part 2",
+   "Type": "Exploration",
+   "Map": "Customs/Woods/Shorline",
+   "Objective": "Put the beacon on the ritual spot at the Customs (Marked room (off of scavs or in blue jacket) 3 story dorms, top floor all the way back(should be able just to place it on the door if you dont have the key)\nPut the beacon on the ritual spot in the Woods (east side of lumber camp in the woods look for the circle with markings)\nPut the beacon on the ritual spot in the Shoreline (east wing third floor \"Pig room\" (it has all the candles and markings plus dead scav with the pig head))\nSurvive and leave the area",
+   "Stat Rewards": "8200 EXP\nPeacekeeper Rep +0.07",
+   "Item Rewards": "850 Dollars\n3x Gas analyzer\n3x Geiger-Muller counter"
+ },
+ {
+   "Quest": "Spa Tour - Part 1",
+   "Type": "Elimination",
+   "Map": "Shoreline",
+   "Objective": "Kill 15 Scavs at the Shoreline with 12 gauge shotgun headshots",
+   "Stat Rewards": "8900 EXP\nPeacekeeper Rep +0.07\n",
+   "Item Rewards": "950 Dollars\nSIG MPX 9x19 Submachine gun"
+ },
+ {
+   "Quest": "Spa Tour - Part 2",
+   "Type": "Exploration",
+   "Map": "Shoreline",
+   "Objective": "Mark the helicopter with a beacon (health resort south side)\nMark a safe road with a beacon (walk on the road away from the helicopter or towards it depending on which way you come up)\nSurvive and leave the area",
+   "Stat Rewards": "7500 EXP\nPeacekeeper Rep +0.06\nUnlocks purchase of M67 Hand grenade at LL2\n",
+   "Item Rewards": "900 Dollars"
+ },
+ {
+   "Quest": "Spa Tour - Part 3",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "(The maps are just places ive seen them spawn the most but not only spawn)\nFind in raid WD-40 100ml (Interchange)\nHand over WD-40 100ml\nFind in raid Clin wiper, 3 pcs (Shoreline or interchange)\nHand over Clin wiper, 3 pcs\nFind in raid Corrugated hose, 3 pcs (Interchange) \nHand over Corrugated hose, 3 pcs\nFind in raid Ox bleach, 3 pcs (Shoreline)\nHand over Ox bleach, 3 pcs\n",
+   "Stat Rewards": "9100 EXP\nPeacekeeper Rep +0.07\n",
+   "Item Rewards": "800 Dollars\n2x HK MP5 9x19 submachinegun (Navy 3 Round Burst)\n5x M67 Hand grenade"
+ },
+ {
+   "Quest": "Spa Tour - Part 4",
+   "Type": "Discover",
+   "Map": "Shoreline",
+   "Objective": "Find generators in right wing (west wing 219 (spawns on the box in the lighthouse on shoreline) or west wing 220 (on the keyrack in the back of the unlocked villa on shoreline)\nFind generators in left wing (east wing 220) (always unlocked)\nSurvive and leave the area",
+   "Stat Rewards": "9300 EXP\nPeacekeeper Rep +0.07\n",
+   "Item Rewards": "1100 Dollars"
+ },
+ {
+   "Quest": "Spa Tour - Part 5",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find the key from the locked resort rooms (on the chair in the bunker by rock passage key only spawns while quest is active)\nHand over key from the locked resort rooms",
+   "Stat Rewards": "7800 EXP\nPeacekeeper Rep +0.06\n",
+   "Item Rewards": "980 Dollars\n4x IFAK personal tactical first aid kit"
+ },
+ {
+   "Quest": "Spa Tour - Part 6",
+   "Type": "Loyalty",
+   "Map": "Any",
+   "Objective": "Hand over $8,000",
+   "Stat Rewards": "11400 EXP\nPeacekeeper Rep +0.09\nUnlocks purchase of 7.62x51 mm M62 at LL3",
+   "Item Rewards": ""
+ },
+ {
+   "Quest": "Spa Tour - Part 7",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "(are just recommedations but not the only place they spawn)\nGet in raid morphine injector, 6 pcs (med bags)\nHand over morphine injector, 6 pcs\nGet in raid Heat-exchange alkali surface washer, 3 pcs (shoreline offices or interchange)\nHand over Heat-exchange alkali surface washer, 3 pcs\nGet in raid Corrugated hose, 3 pcs (interchange)\nHand over Corrugated hose, 3 pcs\nGet in raid 5L propane tank, 3 pcs (interchange oli warehouse (I usually find one a game)\nHand over 5L propane tank, 3 pcs",
+   "Stat Rewards": "11600 EXP\nPeacekeeper Rep +0.09\n",
+   "Item Rewards": "Factory exit key"
+ },
+ {
+   "Quest": "Cargo X - Part 1",
+   "Type": "Pickup",
+   "Map": "Shoreline",
+   "Objective": "Find the cargo record in the computer room (east wing room 306 (you should already have this key because of land lease but it spawns in offices of big red on the desk in customs) or east wing room 308 (lumber mill cabin 1 on the nightstand)\nHand over the retrieved data to Peacekeeper",
+   "Stat Rewards": "10400 EXP\nPeacekeeper Rep +0.07",
+   "Item Rewards": "700 Dollars\nPistol case"
+ },
+ {
+   "Quest": "Cargo X - Part 2",
+   "Type": "Exploration",
+   "Map": "Shoreline",
+   "Objective": "Find a room with reservoirs (room 108 of east wing)\nFind any information on the second part of the shipment (case on top of blue barrels in the room)\nGive the info on the second part of the cargo to Peacekeeper",
+   "Stat Rewards": "8600 EXP\nPeacekeeper Rep +0.07\nUnlocks purchase of KAC QDSS NT-4 5.56x45 silencer (Black) at LL3\n",
+   "Item Rewards": "850 Dollars\n"
+ },
+ {
+   "Quest": "Cargo X - Part 3",
+   "Type": "Multi",
+   "Map": "Shoreline",
+   "Objective": "Find hidden Terragroup cargo (basement of the west wing near the pool)\nSurvive and leave the area",
+   "Stat Rewards": "10700 EXP\nPeacekeeper Rep +0.07\n",
+   "Item Rewards": "900 Dollars\nHK MP5 9x19 submachinegun (Navy 3 Round Burst)\n3x Standard MP5 30-round 9x19 magazine"
+ },
+ {
+   "Quest": "Lend lease - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or buy 2 Military COFDM wireless Signal Transmitters (labs)\nFind or buy 3 Virtex programmable processors (labs)\nHandover 2 Military COFDM wireless Signal Transmitters\nHandover 3 Virtex programmable processors",
+   "Stat Rewards": "22200 EXP\nPeacekeeper Rep +0.09\n",
+   "Item Rewards": "2,000 Dollars\n2x HK 416A5 5.56x45 Assault Rifle\n300x 5.56x45 mm M995\n2x Magpul PMAG D-60 5.56x45 60-round magazine\n2x 60-round MAG5-60 5.56x45 STANAG magazine\n"
+ },
+ {
+   "Quest": "Wet Job - Part 1",
+   "Type": "Elimination",
+   "Map": "Shoreline",
+   "Objective": "Kill 10 Scavs at the Shoreline using a suppressed M4 or ADAR\nGet 10 PMC dogtags\nHand over 10 PMC dogtags",
+   "Stat Rewards": "13300 EXP\nPeacekeeper Rep +0.09\n",
+   "Item Rewards": "1,200 Dollars"
+ },
+ {
+   "Quest": "Wet Job - Part 2",
+   "Type": "Exploration",
+   "Map": "Shoreline",
+   "Objective": "Find the fisher's dwelling (house on the island with the boat bridge by tunnel)\nSet the beacon\nSurvive and leave the area",
+   "Stat Rewards": "11700 EXP\nPeacekeeper Rep +0.07\nUnlocks barter for Magpul PMAG D-60 5.56x45 60-round magazine at LL3\n",
+   "Item Rewards": "1300 Dollars"
+ },
+ {
+   "Quest": "Wet Job - Part 3",
+   "Type": "Exploration",
+   "Map": "Shoreline",
+   "Objective": "Find Artyom's car (yellow car in front of bus on the road going from tunnel to gas station)\nSurvive and leave the area",
+   "Stat Rewards": "9900 EXP\nPeacekeeper Rep +0.06\n",
+   "Item Rewards": "1500 Dollars"
+ },
+ {
+   "Quest": "Wet Job - Part 4",
+   "Type": "Pickup",
+   "Map": "Shoreline",
+   "Objective": "Find a list of resort tenants (in the office of admin building of resort on the table it is the flash drive) \nHand over the list of tenants to Peacekeeper",
+   "Stat Rewards": "10000 EXP\nPeacekeeper Rep +0.06",
+   "Item Rewards": "1600 Dollars"
+ },
+ {
+   "Quest": "Wet Job - Part 5",
+   "Type": "Pickup",
+   "Map": "Shoreline",
+   "Objective": "Find info on Artyom's work (east wing room 328 (spawns on scav island next to the outboard motor) or Health resort utility room key (in the key locker in the closet under the glass staircase on the second floor of the east wing) to recover the hard drive on top of the pc in the room)\nHand over the info to Peacekeeper",
+   "Stat Rewards": "10200 EXP\nPeacekeeper Rep +0.06\nUnlocks purchase of Remington R11 RSASS 7.62x51 at LL4\n",
+   "Item Rewards": "1600 Dollars"
+ },
+ {
+   "Quest": "Wet Job - Part 6",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Reach level 9 in Sniper rifle handling skill",
+   "Stat Rewards": "10400 EXP\nPeacekeeper Rep +0.06\nUnlocks purchase of 7.62x51 mm M61 at LL4\n",
+   "Item Rewards": "3500 Dollars\nDVL-10 Saboteur sniper rifle"
+ },
+ {
+   "Quest": "The guide",
+   "Type": "Exploration",
+   "Map": "All",
+   "Objective": "(Have to survive all in order no run-throughs or death or you need to start over)\nSurvive at Interchange (Status: Survived)\nSurvive at Shoreline (Status: Survived)\nSurvive at Factory (Status: Survived)\nSurvive at Laboratory (Status: Survived)\nSurvive at Woods (Status: Survived)\nSurvive at Customs (Status: Survived)",
+   "Stat Rewards": "35100 EXP\nPeacekeeper Rep +0.12\nUnlocks purchase of Eotech HHS-1 sight Tan at LL4\nUnlocks purchase of SLAAP armor Plate (Tan) at LL4\nUnlocks purchase of Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons at LL2",
+   "Item Rewards": "25000 Dollars\nEotech HHS-1 sight Tan\nSLAAP armor Plate (Tan)\n3x Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons"
+ },
+ {
+   "Quest": "Peacekeeping mission",
+   "Type": "Elimination",
+   "Map": "Woods/Customs/Interchange/Shoreline",
+   "Objective": "Kill 12 Scavs on Customs while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)\nKill 12 Scavs on Interchange while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)\nKill 12 Scavs on Shoreline while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)\nKill 12 Scavs on Woods while dressed in the UN uniform (UNTAR helmet, MF-UNTAR armor vest, Colt M4A1)",
+   "Stat Rewards": "32400 EXP\nPeacekeeper Rep +0.12\n",
+   "Item Rewards": "Remington Model 700 Sniper rifle\n150x 7.62x51 mm M61\n2x GPNVG-18 Night Vision"
+ },
+ {
+   "Quest": "Gunsmith - Part 1",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_1",
+   "Stat Rewards": "6500 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "20000 Roubles\nGLOCK 17 9x19 pistol\n50x 9x19 mm Pst gzh"
+ },
+ {
+   "Quest": "Gunsmith - Part 2",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_2",
+   "Stat Rewards": "6000 EXP\nMechanic Rep +0.04\n",
+   "Item Rewards": "60000 Roubles"
+ },
+ {
+   "Quest": "Gunsmith - Part 3",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_3",
+   "Stat Rewards": "8000 EXP\nMechanic Rep +0.05",
+   "Item Rewards": "500 Euros\nSubmachinegun 19-01 Vityaz-SN 9x19"
+ },
+ {
+   "Quest": "Gunsmith - Part 4",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_4",
+   "Stat Rewards": "10100 EXP\nMechanic Rep +0.05",
+   "Item Rewards": "800 Euros\nPhysical bitcoin"
+ },
+ {
+   "Quest": "Gunsmith - Part 5",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_5",
+   "Stat Rewards": "13900 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "200000 Roubles"
+ },
+ {
+   "Quest": "Gunsmith - Part 6",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_6",
+   "Stat Rewards": "14900 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "1000 Euros\n3x Physical bitcoin"
+ },
+ {
+   "Quest": "Gunsmith - Part 7",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_7",
+   "Stat Rewards": "16000 EXP\nMechanic Rep +0.06\n",
+   "Item Rewards": "100000 Roubles\nGLOCK 17 9x19 pistol"
+ },
+ {
+   "Quest": "Gunsmith - Part 8",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_8",
+   "Stat Rewards": "16200 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "1500 Euros\n2x Physical bitcoin"
+ },
+ {
+   "Quest": "Gunsmith - Part 9",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_9",
+   "Stat Rewards": "17300 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "500 Euros\nColt M4A1 5.56x45 Assault Rifle"
+ },
+ {
+   "Quest": "Gunsmith - Part 10",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_10",
+   "Stat Rewards": "17500 EXP\nMechanic Rep +0.06\nUnlocks purchase of Colt M4A1 5.56x45 Assault Rifle \"SOPMOD I\" variant at LL3",
+   "Item Rewards": "2x Ammo case"
+ },
+ {
+   "Quest": "Gunsmith - Part 11",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_11",
+   "Stat Rewards": "18600 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "Key to KIBA Outlet grate door"
+ },
+ {
+   "Quest": "Gunsmith - Part 12",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_12",
+   "Stat Rewards": "14400 EXP\nMechanic Rep +0.04\nUnlocks purchase of Magpul AFG grip OD at LL3",
+   "Item Rewards": "70000 Roubles\nRemington Model 870 12ga shotgun"
+ },
+ {
+   "Quest": "Gunsmith - Part 13",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_13",
+   "Stat Rewards": "19000 EXP\nMechanic Rep +0.05\nUnlocks purchase of Skeletonized AR-15 pistol grip at LL4",
+   "Item Rewards": "500 Dollars\nMuzzle brake Vendetta precision VP-09 5.56x45"
+ },
+ {
+   "Quest": "Gunsmith - Part 14",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_14",
+   "Stat Rewards": "20800 EXP\nMechanic Rep +0.05\nUnlocks purchase of LAS/TAC 2 tactical flashlight at LL3",
+   "Item Rewards": "100000 Roubles\nEOtech Vudu 1-6 riflescope\n"
+ },
+ {
+   "Quest": "Gunsmith - Part 15",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_15",
+   "Stat Rewards": "22600 EXP\nMechanic Rep +0.05\n",
+   "Item Rewards": "700 Euros\nSpringfield Armory M1A 7.62x51"
+ },
+ {
+   "Quest": "Gunsmith - Part 16",
+   "Type": "Parameter-oriented modding",
+   "Map": "Any",
+   "Objective": "https://escapefromtarkov.gamepedia.com/Gunsmith_-_Part_16",
+   "Stat Rewards": "28500 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "2500 Euros\nColt M4A1 5.56x45 Assault Rifle"
+ },
+ {
+   "Quest": "Farming - Part 1",
+   "Type": "Completion",
+   "Map": "Factory",
+   "Objective": "Fix the first (blinking light by transporters)\nand second (blinking light in hallway)\ncontrol boards (requires tool sets keep these in container and do one at a time)",
+   "Stat Rewards": "8000 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "25000 roubles"
+ },
+ {
+   "Quest": "Farming - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Get or buy Powercord 5 pcs\nHand over Powercord 5 pcs\nGet T-Shaped Plug 5 pcs\nHand over T-Shaped Plug 5 pcs\nGet or buy Printed circuit board 5 pcs\nHand over Printed circuit board 5 pcs",
+   "Stat Rewards": "6800 EXP\nMechanic Rep +0.03",
+   "Item Rewards": "15000 roubles\n7.62x39 AKMSN Assault Rifle"
+ },
+ {
+   "Quest": "Farming - Part 3",
+   "Type": "Completion",
+   "Map": "Customs",
+   "Objective": "Find a warehouse of confiscate (big red building in customs office in the breach room under the metal shelving)\nGet and extract with package of graphics cards\nHand over package with graphics cards to mechanic",
+   "Stat Rewards": "8100 EXP\nMechanic Rep +0.03",
+   "Item Rewards": "20,000 roubles\nPhysical Bitcoin"
+ },
+ {
+   "Quest": "Farming - Part 4",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Get or buy Graphics card 10 pcs\nHand over Graphics card 10 pcs\nGet or buy CPU Fan 10 pcs\nHand over CPU Fan 10 pcs",
+   "Stat Rewards": "9800 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "300 euros\nGLOCK 17 viper"
+ },
+ {
+   "Quest": "Signal - Part 1",
+   "Type": "Discover",
+   "Map": "Shoreline",
+   "Objective": "Find the first signal source (satellite dishes by radio station)\nFind the second signal source (satellite dishes on the roof of resort west wing)\nSurvive and leave the area",
+   "Stat Rewards": "8500 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "10000 roubles\n3x 50 round drum mags for Glock 9x19"
+ },
+ {
+   "Quest": "Signal - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find in raid 3 PC CPUs\nFind in raid 3 Rechargeable batterys\nFind in raid 3 Printed circuit boards\nFind in raid 3 Broken GPhones\nHand over PC CPU 3 pcs\nHand over Rechargeable battery 3 pcs\nHand over Printed circuit board 3 pcs\nHand over Broken GPhone 3 pcs",
+   "Stat Rewards": "8700 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "50000 roubles"
+ },
+ {
+   "Quest": "Signal - Part 3",
+   "Type": "Completion",
+   "Map": "Shoreline",
+   "Objective": "Place first jammer on the satellite dishes on top of resort\nPlace second jammer on the satellite dishes by radio station\nPlace third jammer on the radio tower west of the radio station\nSurvive and leave the area",
+   "Stat Rewards": "11000 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "30000 roubles\nRemington 870 12ga shotgun"
+ },
+ {
+   "Quest": "Signal - Part 4",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Increase memory skill level to 4",
+   "Stat Rewards": "11100 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "20000 roubles\nNightforce ATACR 7-35x56 riflescope"
+ },
+ {
+   "Quest": "Bad habit",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Get in raid Malboro cigarettes 7 pcs\nHand over Malboro cigarettes 7 pcs\nGet in raid Strike cigarettes 7 pcs\nHand over Strike cigarettes 7 pcs\nGet in raid Wilston cigarettes 7 pcs\nHand over Wilston cigarettes 7 pcs",
+   "Stat Rewards": "9000 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "300 euros\nStechkin Automatic Pistol"
+ },
+ {
+   "Quest": "Scout",
+   "Type": "Completion",
+   "Map": "Factory",
+   "Objective": "Find a way out of the factory 1 (hug the doors to the locked extractions to complete that part of the quest)\nFind a way out of the factory 2\nFind a way out of the factory 3\nSurvive and exit the location",
+   "Stat Rewards": "9200 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "30000\n2x Physical bitcoin"
+ },
+ {
+   "Quest": "Insider",
+   "Type": "Standing",
+   "Map": "Any",
+   "Objective": "Reach 0.4 standing with Prapor",
+   "Stat Rewards": "9300 EXP\nMechanic Rep +0.04",
+   "Item Rewards": "800 euros\n2x Osprey 9 9x19mm surpressors"
+ },
+ {
+   "Quest": "Psycho Sniper",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Upgrade the Sniper skill to level 12",
+   "Stat Rewards": "32000 EXP",
+   "Item Rewards": "150000 roubles"
+ },
+ {
+   "Quest": "Import",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Handover 2 UHF RFID Readers\nHandover 2 VPX Flash Storage Modules",
+   "Stat Rewards": "42800 EXP\nMechanic Rep +0.07",
+   "Item Rewards": "REAP-IR thermal scope\n85000 roubles\n3x Physical bitcoin"
+ },
+ {
+   "Quest": "Fertilizers",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find 5 Wires in a raid\nFind 5 Capacitors in a raid\nHandover 5 Wires\nHandover 5 Capacitors",
+   "Stat Rewards": "19500 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "3x Physical bitcoin\n65000 roubles"
+ },
+ {
+   "Quest": "A Shooter Born in Heaven",
+   "Type": "Elimination",
+   "Map": "Woods/Customs/Interchange/Shoreline",
+   "Objective": "Kill 3 PMCs with headshots in the Woods from a distance of more than 100 meters.\nKill 3 PMCs with headshots in the Interchange from a distance of more than 100 meters.\nKill 3 PMCs with headshots in the Shoreline from a distance of more than 100 meters.\nKill 3 PMCs with headshots in the Customs from a distance of more than 100 meters.",
+   "Stat Rewards": "39500 EXP\nMechanic Rep +0.06",
+   "Item Rewards": "100000 Roubles\n4x 10 round capacity 7.62x54r magazines for Archangel mosin rifle stock\n100x 7.62x54R SNB\n1x Mosin bolt-action sniper rifle\nUnlocks purchase of Magazine case at LL3"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 1",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 15 Scavs over 50 meters away with a Mosin rifle without a scope",
+   "Stat Rewards": "18900 EXP\nMechanic Rep +0.05\n",
+   "Item Rewards": "50000 Roubles\n2x PU 3.5x riflescope\n2x PU 3.5x ring mount\n2x Kochetov Mount for Mosin rifle"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 2",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Make 7 hits in the legs from more than 80 metres away with a Mosin\nMake 5 headshots from more than 80 metres away with a Mosin",
+   "Stat Rewards": "19200 EXP\nMechanic Rep +0.05\nUnlocks purchase of Aim Sports MNG rail for Mosin rifle at LL1\n",
+   "Item Rewards": "65000 Roubles\nAim Sports MNG rail for Mosin rifle"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 3",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 7 PMC operatives with a Mosin at close range, less than 15 metres away",
+   "Stat Rewards": "16200 EXP\nMechanic Rep +0.05\nUnlocks purchase of Tacfire Tanker style muzzlebrake for Mosin rifle at LL2\nUnlocks purchase of Recoil pad from Aim Sports for Mosin rifle at LL2",
+   "Item Rewards": "Kinda cowboy hat\nTacfire Tanker style muzzlebrake for Mosin rifle\nRecoil pad from Aim Sports for Mosin rifle\n"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 4",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Level up the Sniper Rifles skill to 5",
+   "Stat Rewards": "16400 EXP\nMechanic Rep +0.04\nUnlocks purchase of Aim Sports \"Tri-Rail\" rail for Mosin rifle at LL2\nUnlocks purchase of Tacfire pistol grip for Mosin rifle at LL2",
+   "Item Rewards": "57000 Roubles\nAim Sports \"Tri-Rail\" rail for Mosin rifle\nTacfire pistol grip for Mosin rifle\n"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 5",
+   "Type": "Elimination",
+   "Map": "Customs",
+   "Objective": "Kill 12 Scavs at Customs with a Mosin rifle between 23:00 and 4:00",
+   "Stat Rewards": "20000 EXP\nMechanic Rep +0.05\nUnlocks purchase of Texas Precision Products muzzlebrake for Mosin rifle at LL3\n",
+   "Item Rewards": "75000 Roubles\nTexas Precision Products muzzlebrake for Mosin rifle"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 6",
+   "Type": "Elimination",
+   "Map": "Customs/Shoreline/Woods",
+   "Objective": "Kill 10 Scav snipers with a Mosin",
+   "Stat Rewards": "20300 EXP\nMechanic Rep +0.05\nUnlocks purchase of ATI Monte Carlo Mosin rifle stock at LL3",
+   "Item Rewards": "50000 Roubles\nATI Monte Carlo Mosin rifle stock\n"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 7",
+   "Type": "Elimination",
+   "Map": "Any",
+   "Objective": "Kill 10 PMC operatives with suppressed a Mosin at least 80 metres away",
+   "Stat Rewards": "20700 EXP\nMechanic Rep +0.05\nUnlocks purchase of Witt Machine muzzlebrake for Mosin rifle at LL4",
+   "Item Rewards": "85000 Roubles\nWitt Machine muzzlebrake for Mosin rifle"
+ },
+ {
+   "Quest": "The Tarkov shooter - Part 8",
+   "Type": "Elimination",
+   "Map": "Woods",
+   "Objective": "Kill 4 PMC operatives with a Mosin over one raid in the Woods",
+   "Stat Rewards": "25200 EXP\nMechanic Rep +0.06\nUnlocks purchase of ProMag Archangel OPFOR PRS Mosin rifle stock at LL4\nUnlocks purchase of 7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity at LL4",
+   "Item Rewards": "200000 Roubles\nProMag Archangel OPFOR PRS Mosin rifle stock\n7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity\n"
+ },
+ {
+   "Quest": "Only business",
+   "Type": "Merchant",
+   "Map": "Any",
+   "Objective": "Obtain level 2 loyalty with Ragman",
+   "Stat Rewards": "6700 EXP\nRagman Rep +0.06",
+   "Item Rewards": "10000 Roubles\nWartech gear rig (TV-109, TV-106)"
+ },
+ {
+   "Quest": "Make ULTRA Great Again",
+   "Type": "Elimination",
+   "Map": "Interchange",
+   "Objective": "Kill 20 Scavs at the Interchange. You must wear a fleece hat and Crye Precision AVS vest",
+   "Stat Rewards": "9800 EXP\nRagman Rep +0.09\n",
+   "Item Rewards": "50000 Roubles"
+ },
+ {
+   "Quest": "Big sale",
+   "Type": "Exploration",
+   "Map": "Interchange",
+   "Objective": "(They are all on the first floor so just do a loop and youll be good)\nCheck AVOKADO\nCheck KOSTIN\nCheck tRend\nCheck DINO CLOTHES\nCheck TOP BRAND\nSurvive and leave the area",
+   "Stat Rewards": "8900 EXP\nRagman Rep +0.07\n",
+   "Item Rewards": "17000 Roubles\nCamelback Tri-Zip Backpack"
+ },
+ {
+   "Quest": "The Blood of War - Part 1",
+   "Type": "Completion",
+   "Map": "Interchange",
+   "Objective": "Mark tank 1 (power station)\nMark tank 2 (scav checkpoint)\nMark tank 3 (halfway on the road from power station to South East Exc) \nSurvive and leave the area",
+   "Stat Rewards": "7500 EXP\nRagman Rep +0.06\n",
+   "Item Rewards": "60000 Roubles"
+ },
+ {
+   "Quest": "Dressed to kill",
+   "Type": "Completion",
+   "Map": "Any",
+   "Objective": "Find or Buy Ushanka ear-flap cap, 7 pcs\nHand over Ushanka ear-flap cap, 7 pcs\nFind or Buy Kinda cowboy hat, 7 pcs\nHand over Kinda cowboy hat, 7 pcs",
+   "Stat Rewards": "10200 EXP\nRagman Rep +0.07",
+   "Item Rewards": "21000 Roubles\nBNTI Gzhel-K armor"
+ },
+ {
+   "Quest": "Gratitude",
+   "Type": "Completion",
+   "Map": "Woods",
+   "Objective": "Find the secret spot (the pier in lumber yard items place one at a time)\nLeave the Ghost balaclava in place\nLeave the Shemagh in place\nLeave the RayBench sunglasses in place\nLeave the Round frame sunglasses in place",
+   "Stat Rewards": "16300 EXP\nRagman Rep +0.07\n",
+   "Item Rewards": "80000 Roubles"
+ },
+ {
+   "Quest": "Sales Night",
+   "Type": "Completion",
+   "Map": "Interchange",
+   "Objective": "Survive in the raid at Interchange 7 times (requests survived status)",
+   "Stat Rewards": "19800 EXP\nRagman Rep +0.09\n",
+   "Item Rewards": "35000 Roubles\n2x SSO \"Attack 2\" raid backpack"
+ },
+ {
+   "Quest": "Hot delivery",
+   "Type": "Completion",
+   "Map": "Interchange",
+   "Objective": "Stash Peltor ComTac 2 in specified place, 2 pcs (garbage pile in avokado)\nStash 6B47 Helmet in specified place, 2 pcs (garbage pile in avokado)\nStash BNTI Gzhel-K armor in specified place, 2 pcs (garbage pile by the stage in front of ultra) ",
+   "Stat Rewards": "25000 EXP\nRagman Rep +0.09\nUnlocks barter for IOTV Gen4 armor (full protection) at LL4\n",
+   "Item Rewards": "55000 Roubles\nIOTV Gen4 armor (full protection)"
+ },
+ {
+   "Quest": "Database - Part 1",
+   "Type": "Exploration",
+   "Map": "Interchange",
+   "Objective": "Get Goshan cargo manifests (in the north goshan computer room on the south east corner desk)\nHand over Goshan cargo manifests\nGet OLI cargo manifests (back most info desk on the mall enterance side)\nHand over OLI cargo manifests \nGet IDEA cargo manifests (in idea offices, on the second row of cubiles right most cubile)\nHand over IDEA cargo manifests ",
+   "Stat Rewards": "11500 EXP\nRagman Rep +0.07\n",
+   "Item Rewards": "22000 Roubles\nMSA Sordin Supreme PRO-X/L active headphones"
+ },
+ {
+   "Quest": "Database - Part 2",
+   "Type": "Completion",
+   "Map": "Interchange",
+   "Objective": "Get OLI cargo route documents (in the oli logistics offices (the key is found in the blue car by shortcut jump in customs))\nHand over OLI cargo route documents",
+   "Stat Rewards": "11700 EXP\nRagman Rep +0.07",
+   "Item Rewards": "60000 Roubles"
+ },
+ {
+   "Quest": "Minibus",
+   "Type": "Completion",
+   "Map": "Interchange",
+   "Objective": "Mark first minibus (outside in the blue fenced off area by oli corner)\nMark second minibus (at the locked of down-ramp, and the second one is to the right, past the broken roof/floor, in the back corner)\nMark third minibus (next to the main entrance of the Super)\nSurvive and leave the area",
+   "Stat Rewards": "16500 EXP\nRagman Rep +0.07\n",
+   "Item Rewards": "50000 Roubles\nAna tactical Beta 2 battle backpack"
+ },
+ {
+   "Quest": "Sew it good - Part 1",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or Buy Ski hat with holes for eyes, 2 pcs\nHand over Ski hat with holes for eyes, 2 pcs\n(everything inside will be lost on turn in)\nFind or Buy Pilgrim Tourist Backpack, 2 pcs\nHand over Pilgrim Tourist Backpack, 2 pcs",
+   "Stat Rewards": "12300 EXP\nRagman Rep +0.06\n",
+   "Item Rewards": "25000 Roubles\nSSSh-95 Sfera-S (Sphere-S)"
+ },
+ {
+   "Quest": "Sew it good - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or Buy Gzhel in 0-50% condition\nHand over Gzhel in 0-50% condition\nFind or Buy Gzhel in 50-100% condition\nHand over Gzhel in 50-100% condition",
+   "Stat Rewards": "18700 EXP\nRagman Rep +0.09\n",
+   "Item Rewards": "10000 Roubles\n2x ZSh-1-2M face shield"
+ },
+ {
+   "Quest": "Sew it good - Part 3",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or Buy 6B43 with 0-50% condition\nHand over 6B43 with 0-50% condition\nFind or Buy 6B43 with 50-100% condition\nHand over 6B43 with 50-100% condition",
+   "Stat Rewards": "19700 EXP\nRagman Rep +0.09\n",
+   "Item Rewards": "65000 Roubles"
+ },
+ {
+   "Quest": "Sew it good - Part 4",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "(Anything inside will be lost on turn in)\nGet in raid Wartech (TV-109, TV-106)\nHand over 2 Wartech (TV-109, TV-106)\nGet in raid Crye Precision AVS\nHand over 2 Crye Precision AVS\nGet in raid BlackRock chest rig\nHand over 2 BlackRock chest rig",
+   "Stat Rewards": "20700 EXP\nRagman Rep +0.09",
+   "Item Rewards": "25000 Roubles\nANA Tactical M2 armored rig"
+ },
+ {
+   "Quest": "The Blood of War - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "(Dufflebags or on labs)\nGet in raid Fuel conditioner, 6 pcs\nHand over Fuel conditioner, 6 pcs",
+   "Stat Rewards": "15600 EXP\nRagman Rep +0.07",
+   "Item Rewards": "20000 Roubles\nHighcom Striker ACHHC IIIA black helmet"
+ },
+ {
+   "Quest": "The Blood of War - Part 3",
+   "Type": "Completion",
+   "Map": "Woods",
+   "Objective": "Find and mark first fuel stash (sniper rock looking over scav house by checkpoint)\nFind and mark second fuel stash (cave backside of scav sniper hill)\nFind and mark third fuel stash (by zb-016 bunker and plane crash area)\nSurvive and leave the area",
+   "Stat Rewards": "21000 EXP\nRagman Rep +0.09\n",
+   "Item Rewards": "75000 Roubles\n2x Highcom Trooper TFO armor (multicam)\n1x Mystery Ranch Blackjack 50 backpack (multicam)"
+ },
+ {
+   "Quest": "The key to success",
+   "Type": "Pickup",
+   "Map": "Interchange",
+   "Objective": "Get Clothes design handbook Part 1 (\"????? ???????\" on the second floor in the pile of books)\nHand over Clothes design handbook Part 1 \nGet Clothes design handbook Part 2 (First floor book store by goshan at the end of the hallway on the middle bookshelf)\nHand over Clothes design handbook Part 2",
+   "Stat Rewards": "18100 EXP\nRagman Rep +0.07",
+   "Item Rewards": "\n60000 Roubles\n2x Ghost balaclava"
+ },
+ {
+   "Quest": "Living high is not a crime - Part 1",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find or Buy Bronze lion, 4 pcs\nHand over Bronze lion, 4 pcs\nFind or Buy Horse figurine, 4 pcs\nHand over Horse figurine, 4 pcs\nFind or Buy Cat figurine, 4 pcs\nHand over Cat figurine, 4 pcs\nFind or Buy Roler submariner gold wrist watch\nHand over Roler submariner gold wrist watch",
+   "Stat Rewards": "23000 EXP\nRagman Rep +0.09",
+   "Item Rewards": "75000 Roubles\n3x Golden neck chain\nAltyn helmet"
+ },
+ {
+   "Quest": "Living high is not a crime - Part 2",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "Find 3 antique teapots in a raid\nFind 2 antique vases in a raid\nHandover 3 antique teapots\nHandover 2 antique vases",
+   "Stat Rewards": "29600 EXP\nRagman Rep +0.12\n",
+   "Item Rewards": "110000 Roubles\n2x Zhuk-6a heavy armor\n2x Altyn helmet\n2x Altyn face shield"
+ },
+ {
+   "Quest": "Charisma brings success",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Increase the Charisma level to 10",
+   "Stat Rewards": "12700 EXP\nRagman Rep +0.07\n",
+   "Item Rewards": "30000 Roubles\n2x Altyn face shield"
+ },
+ {
+   "Quest": "No fuss needed",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Increase the Therapist loyalty level to 3",
+   "Stat Rewards": "12900 EXP\nRagman Rep +0.07\n",
+   "Item Rewards": "32000 Roubles\nAltyn helmet"
+ },
+ {
+   "Quest": "Supervisor",
+   "Type": "Pickup",
+   "Map": "Customs",
+   "Objective": "Find or Buy key from Goshan cash registers (in the bus by new gas station)\nHand over key from Goshan cash registers",
+   "Stat Rewards": "24100 EXP\nRagman Rep +0.09\nUnlocks purchase of BNTI Gzhel-K armor at LL3\n",
+   "Item Rewards": "250000 Roubles"
+ },
+ {
+   "Quest": "Scavenger",
+   "Type": "Skill",
+   "Map": "Any",
+   "Objective": "Earn 12 Search skill level",
+   "Stat Rewards": "15400 EXP\nRagman Rep +0.11\nUnlocks barter for Crash Axe at LL4",
+   "Item Rewards": "65000 Roubles"
+ },
+ {
+   "Quest": "Collector",
+   "Type": "Pickup",
+   "Map": "Any",
+   "Objective": "(The streamer items plus other rare items also last quest in the game congrats)        \nFind an Old firesteel in raid\nHandover the Old firesteel\nFind an Antique axe in raid\nHandover the Antique axe\nFind a Battered antique Book in raid\nHandover the Battered antique Book\nFind a FireKlean gun lube in raid\nHandover the FireKlean gun lube\nFind a Golden rooster in raid\nHandover the Golden rooster\nFind a Silver Badge in raid\nHandover the Silver Badge\nFind a Deadlyslob's beard oil in raid\nHandover the Deadlyslob's beard oil\nFind a Golden 1GPhone in raid\nHandover the Golden 1GPhone\nFind a Jar of DevilDog mayo in raid\nHandover the Jar of DevilDog mayo\nFind a Can of sprats in raid\nHandover the Can of sprats\nFind a Fake mustache in raid\nHandover the Fake mustache\nFind a Kotton beanie in raid\nHandover the Kotton beanie",
+   "Stat Rewards": "Secure container Kappa",
+   "Item Rewards": ""
+ }
+]
