@@ -1,0 +1,35 @@
+const Discord = require('discord.js'); 
+
+module.exports.run = async (bot, message, args) => {
+    console.log("!Loadout works");
+    let replies = ["None no melee either","Group Decides","What you want" ,"Melee only","Scav Special .366 tkm",'obrez mosin', "ADAR 2-15", "AK-101", "AK-102", "AK-103", "AK-104", "AK-105", "AK-74", "AK-74M", "AK-74N", "AKM", "AKMN", "AKMS", "AKMSN", "AKS-74", "AKS-74N", "AKS-74U", "AKS-74UB", "AKS-74UN", "DT MDR", "HK 416A5", "M4A1", "SA-58", "Vepr AKM/VPO-209", "Vepr KM/VPO-136", "AS VAL", "OP-SKS", "SKS", "Vepr Hunter/VPO-101", "RPK-16", "MP5", "MP7A1", "MP7A2", "MPX", "PP-19-01 Vityaz-SN", "PP-9 Klin", "PP-91 Kedr", "PP-91-01 Kedr-B", "Saiga-9", "M870", "MP-133", "MP-153", "Saiga-12", "TOZ-106", "M1A", "RSASS", "SVDS", "VSS Vintorez", "DVL-10", "M700", "Mosin", "Mosin Inf.", "SV-98", "APB", "APS", "GLOCK17", "GLOCK18C", "MP-443 Grach", "P226R", "PB pistol", "PM (t) pistol with drum mag", "PM pistol with drum mag", "SR-1MP Gyurza", "TT pistol", "TT pistol (gold)"]
+    let replies2 = ["What you want", "Group Decides","no stock" ,"BiS everything", "Stock af", "sight only", "build how you want", "build as big as possible (inventory slots)", "build as small as possible (inventory slots)", "max ergo (high as possible)", "max recoil (high as possible)", "Min ergo (low as possible)", "Min recoil (low as possible)"]
+    let replies3 = ["What you want", "Group Decides", "None", "Armasight NVG mask", "Wilcox Skull Lock head mount", "Kolpak-1S riot helmet", "SHPM Firefighter's helmet", "PSH-97 Jeta helmet", "UNTAR helmet", "6B47 Helmet", "SSh-68 helmet (1968 steel helmet)", "LZSh light helmet", "Kiver-M Helmet", "DEVTAC Ronin ballistic helmet", "SSSh-95 Sfera-S (Sphere-S)", "Highcom Striker ACHHC IIIA helmet", "Ops-Core Fast MT SUPER HIGH CUT Helmet", "ZSh-1-2M helmet", "Highcom Striker ULACH IIIA helmet", "Crye Precision Airframe Tan", "Maska 1Sch helmet", "Altyn helmet", "Vulkan-5 (LShZ-5) heavy helmet", "Kinda cowboy hat", "Ushanka ear-flap cap", "Miltec panama hat", "Beanie", "Kotton beanie", "Army cap", "Baseball cap", "Ded Moroz hat", "Police cap", "Tactical fleece hat", "UX PRO Beanie", "USEC baseball cap", "BEAR baseball cap", "USEC baseball cap black", "BEAR baseball cap black", "EmerCom cap", "Pompon hat", "Bandana", "Ski hat with holes for eyes"]
+    let replies4 = ["What you want", "Group Decides", "NVG", "Facemask up", "Facemask down", "Barebones"]
+    let replies5 = ["What you want", "None", "Group Decides", "Module-3M bodyarmor", "PACA Soft Armor", "MF-UNTAR armor vest", "6B23-1 armor (digital flora pattern)", "BNTI Kirasa-N armor", "Highcom Trooper TFO armor (multicam)", "6B13 assault armor", "6B23-2 armor (mountain flora pattern)", "BNTI Gzhel-K armor", "FORT Redut-M body armor", "6B13 M assault armor (tan)", "IOTV Gen4 armor (high mobility kit)", "IOTV Gen4 armor (assault kit)", "IOTV Gen4 armor (full protection)", "FORT Redut-T5 body armor", "Zhuk-6a heavy armor", "6B43 6A Armor"]
+    let replies6 = ["what you want", "None", "Group Decides", "6B5-16 armored rig", "ANA Tactical M2 armored rig", "ANA Tactical M1 armored rig", "Wartech TV-110 plate carrier", "6B5-15 armored rig", "5.11 Tactec plate carrier", "Scav Vest", "BlackRock chest rig", "Crye Precision AVS chest rig", "Wartech gear rig (TV-109, TV-106)", "UMTBS 6sh112 Scout-Sniper", "Triton M43-A Chest Harness", "Blackhawk! Commando Chest Harness", "Wartech MK3 chest rig (TV-104)", "ANA Tactical Alpha chest rig", "Belt-A + Belt-B gear rig"]
+    let replies7 = ["What you want", "Group Decides", "Mystery Ranch Blackjack 50 backpack (multicam)", "SSO Attack 2 raid backpack", "Pilgrim Tourist Backpack", "3V G Paratus 3-Day Operator's Tactical Backpack", "Camelbak Tri-Zip Backpack", "Ana tactical Beta 2 battle backpack", "Wartech Berkut VV-102 backpack", "Scav Backpack", "Flyye MBSS Backpack", "Duffle bag", "Transformer Bag", "VKBO army bag", "Tactical sling bag"]
+    let result = Math.floor((Math.random() * replies.length))
+    let result2 = Math.floor((Math.random() * replies2.length))
+    let result3 = Math.floor((Math.random() * replies3.length))
+    let result4 = Math.floor((Math.random() * replies4.length))
+    let result5 = Math.floor((Math.random() * replies5.length))
+    let result6 = Math.floor((Math.random() * replies6.length))
+    let result7 = Math.floor((Math.random() * replies7.length))
+    
+    let embed = new Discord.RichEmbed()
+    .setAuthor(message.author.tag)
+    .setColor("#FF00FF")
+    .addField("Gun", replies[result])
+    .addField("Gun Status", replies2[result2])
+    .addField("Helmet", replies3[result3])    
+    .addField("Helmet Status", replies4[result4])    
+    .addField("Armor", replies5[result5])    
+    .addField("Vest", replies6[result6])    
+    .addField("Bag", replies7[result7])
+    .addField("Special Rule if you want it do", "!Special")
+    message.channel.send(embed);
+}
+module.exports.help = {
+    name: "Loadout"
+}
