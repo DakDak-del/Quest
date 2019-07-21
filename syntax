@@ -1,0 +1,47 @@
+# !Map- Pick a random map
+@client.command(aliases=['map'])
+async def Map(ctx):
+    
+    responses = ["Factory.", "Night Factory.", "Labs if Cards are up.", "Night labs if cards are up", "Woods.","Night Woods.", "Shoreline.", "Night Shoreline.", "Interchange.", "Night Interchange."]
+    # await ctx.send(f'{random.choice(responses)}')
+    reply= (f'{random.choice(responses)}')
+    Mapembed = discord.Embed(
+        title = 'Nikita says play',
+        description= reply
+    )
+    # Mapembed.add_field(name = " ", value= reply)
+    await ctx.send(embed=Mapembed)
+# !Loadout- Pick a random loadout
+@client.command(aliases=['loadout'])
+async def Loadout(ctx):
+
+   Gun = ["None no melee either","Group Decides","What you want" ,"Melee only","Scav Special .366 tkm",'obrez mosin', "ADAR 2-15", "AK-101", "AK-102", "AK-103", "AK-104", "AK-105", "AK-74", "AK-74M", "AK-74N", "AKM", "AKMN", "AKMS", "AKMSN", "AKS-74", "AKS-74N", "AKS-74U", "AKS-74UB", "AKS-74UN", "DT MDR", "HK 416A5", "M4A1", "SA-58", "Vepr AKM/VPO-209", "Vepr KM/VPO-136", "AS VAL", "OP-SKS", "SKS", "Vepr Hunter/VPO-101", "RPK-16", "MP5", "MP7A1", "MP7A2", "MPX", "PP-19-01 Vityaz-SN", "PP-9 Klin", "PP-91 Kedr", "PP-91-01 Kedr-B", "Saiga-9", "M870", "MP-133", "MP-153", "Saiga-12", "TOZ-106", "M1A", "RSASS", "SVDS", "VSS Vintorez", "DVL-10", "M700", "Mosin", "Mosin Inf.", "SV-98", "APB", "APS", "GLOCK17", "GLOCK18C", "MP-443 Grach", "P226R", "PB pistol", "PM t pistol with drum mag", "PM pistol with drum mag", "SR-1MP Gyurza", "TT pistol", "TT pistol gold"]
+   WeaponStatus = ["What you want", "Group Decides","no stock" ,"BiS everything", "Stock af", "sight only", "build how you want", "build as big as possible (inventory slots)", "build as small as possible (inventory slots)", "max ergo (high as possible)", "max recoil (high as possible)", "Min ergo (low as possible)", "Min recoil (low as possible)"]
+   Helmet = ["What you want", "Group Decides", "None", "Armasight NVG mask", "Wilcox Skull Lock head mount", "Kolpak-1S riot helmet", "SHPM Firefighter's helmet", "PSH-97 Jeta helmet", "UNTAR helmet", "6B47 Helmet", "SSh-68 helmet (1968 steel helmet)", "LZSh light helmet", "Kiver-M Helmet", "DEVTAC Ronin ballistic helmet", "SSSh-95 Sfera-S (Sphere-S)", "Highcom Striker ACHHC IIIA helmet", "Ops-Core Fast MT SUPER HIGH CUT Helmet", "ZSh-1-2M helmet", "Highcom Striker ULACH IIIA helmet", "Crye Precision Airframe Tan", "Maska 1Sch helmet", "Altyn helmet", "Vulkan-5 (LShZ-5) heavy helmet", "Kinda cowboy hat", "Ushanka ear-flap cap", "Miltec panama hat", "Beanie", "Kotton beanie", "Army cap", "Baseball cap", "Ded Moroz hat", "Police cap", "Tactical fleece hat", "UX PRO Beanie", "USEC baseball cap", "BEAR baseball cap", "USEC baseball cap black", "BEAR baseball cap black", "EmerCom cap", "Pompon hat", "Bandana", "Ski hat with holes for eyes"]
+   HelmetStatus = ["What you want", "Group Decides", "NVG", "Facemask up only", "Facemask down only", "Barebones"]
+   BodyArmor = ["What you want", "None", "Group Decides", "Module-3M bodyarmor", "PACA Soft Armor", "MF-UNTAR armor vest", "6B23-1 armor (digital flora pattern)", "BNTI Kirasa-N armor", "Highcom Trooper TFO armor (multicam)", "6B13 assault armor", "6B23-2 armor (mountain flora pattern)", "BNTI Gzhel-K armor", "FORT Redut-M body armor", "6B13 M assault armor (tan)", "IOTV Gen4 armor (high mobility kit)", "IOTV Gen4 armor (assault kit)", "IOTV Gen4 armor (full protection)", "FORT Redut-T5 body armor", "Zhuk-6a heavy armor", "6B43 6A Armor"]
+   Rig = ["What you want", "None", "Group Decides", "6B5-16 armored rig", "ANA Tactical M2 armored rig", "ANA Tactical M1 armored rig", "Wartech TV-110 plate carrier", "6B5-15 armored rig", "5.11 Tactec plate carrier", "Scav Vest", "BlackRock chest rig", "Crye Precision AVS chest rig", "Wartech gear rig (TV-109, TV-106)", "UMTBS 6sh112 Scout-Sniper", "Triton M43-A Chest Harness", "Blackhawk! Commando Chest Harness", "Wartech MK3 chest rig (TV-104)", "ANA Tactical Alpha chest rig", "Belt-A + Belt-B gear rig"]
+   Backpack = ["What you want", "Group Decides", "Mystery Ranch Blackjack 50 backpack (multicam)", "SSO Attack 2 raid backpack", "Pilgrim Tourist Backpack", "3V G Paratus 3-Day Operator's Tactical Backpack", "Camelbak Tri-Zip Backpack", "Ana tactical Beta 2 battle backpack", "Wartech Berkut VV-102 backpack", "Scav Backpack", "Flyye MBSS Backpack", "Duffle bag", "Transformer Bag", "VKBO army bag", "Tactical sling bag"]
+   result = (f'{random.choice(Weapon)}')
+   result2 = (f'{random.choice(WeaponStatus)}')
+   result3 =  (f'{random.choice(Helmet)}')
+   result4 =  (f'{random.choice(HelmetStatus)}')
+   result5 =  (f'{random.choice(BodyArmor)}')
+   result6 =  (f'{random.choice(Rig)}')
+   result7 =  (f'{random.choice(backpack)}')
+   loadoutembed = new Discord.RichEmbed(
+   Author= message.author.tag,
+   title = 'Your loadout is', 
+   colour = discord.Colour.pink()
+    )
+	 
+    loadoutembed.add_field("Gun", result)
+    loadoutembed.add_field("Gun Status", result2)
+    loadoutembed.add_field("Helmet", result3)    
+    loadoutembed.add_field("Helmet Status", result4)    
+    loadoutembed.add_field("Armor", result5)    
+    loadoutembed.add_field("Rig", result6)    
+    loadoutembed.add_field("Bag", result7)
+    loadoutembed.add_field("challenge rule if you want it do", "!Special")
+    await ctx.send(loadoutembed.embed)
+    )
