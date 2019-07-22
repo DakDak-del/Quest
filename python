@@ -1,0 +1,115 @@
+# Work with Python 3.6
+import discord
+from discord.ext import commands
+import random
+import json
+
+
+
+client = commands.Bot(command_prefix = '.')
+
+@client.event
+async def on_ready():
+    print('We have logged in as {0.user}'.format(client))
+    await client.change_presence(activity=discord.Game(name='Diners, Drive-ins and Dives'))
+# !Map- Pick a random map
+@client.command(aliases=['map'])
+async def Map(ctx):
+    "Pick you a random map"
+    responses = ["Factory.", "Night Factory.", "Labs if Cards are up.", "Night labs if cards are up", "Woods.","Night Woods.", "Shoreline.", "Night Shoreline.", "Interchange.", "Night Interchange."]
+    # await ctx.send(f'{random.choice(responses)}')
+    reply= (f'{random.choice(responses)}')
+    Mapembed = discord.Embed(
+        title = 'Nikita says play',
+        description= reply
+    )
+    Mapembed.set_author(name= ctx.message.author)
+    # Mapembed.add_field(name = " ", value= reply)
+    await ctx.send(embed=Mapembed)
+# !Loadout- Pick a random loadout
+@client.command(aliases=['loadout'])
+async def Loadout(ctx):
+   "Pick a random loadout"
+   gun= ["None no melee either","Group Decides","What you want" ,"Melee only","Scav Special .366 tkm",'obrez mosin', "ADAR 2-15", "AK-101", "AK-102", "AK-103", "AK-104", "AK-105", "AK-74", "AK-74M", "AK-74N", "AKM", "AKMN", "AKMS", "AKMSN", "AKS-74", "AKS-74N", "AKS-74U", "AKS-74UB", "AKS-74UN", "DT MDR", "HK 416A5", "M4A1", "SA-58", "Vepr AKM/VPO-209", "Vepr KM/VPO-136", "AS VAL", "OP-SKS", "SKS", "Vepr Hunter/VPO-101", "RPK-16", "MP5", "MP7A1", "MP7A2", "MPX", "PP-19-01 Vityaz-SN", "PP-9 Klin", "PP-91 Kedr", "PP-91-01 Kedr-B", "Saiga-9", "M870", "MP-133", "MP-153", "Saiga-12", "TOZ-106", "M1A", "RSASS", "SVDS", "VSS Vintorez", "DVL-10", "M700", "Mosin", "Mosin Inf.", "SV-98", "APB", "APS", "GLOCK17", "GLOCK18C", "MP-443 Grach", "P226R", "PB pistol", "PM t pistol with drum mag", "PM pistol with drum mag", "SR-1MP Gyurza", "TT pistol", "TT pistol gold"]
+   weaponStatus= ["What you want", "Group Decides","no stock" ,"BiS everything", "Stock af", "sight only", "build how you want", "build as big as possible (inventory slots)", "build as small as possible (inventory slots)", "max ergo (high as possible)", "max recoil (high as possible)", "Min ergo (low as possible)", "Min recoil (low as possible)"]
+   helmet= ["What you want", "Group Decides", "None", "Armasight NVG mask", "Wilcox Skull Lock head mount", "Kolpak-1S riot helmet", "SHPM Firefighter's helmet", "PSH-97 Jeta helmet", "UNTAR helmet", "6B47 Helmet", "SSh-68 helmet (1968 steel helmet)", "LZSh light helmet", "Kiver-M Helmet", "DEVTAC Ronin ballistic helmet", "SSSh-95 Sfera-S (Sphere-S)", "Highcom Striker ACHHC IIIA helmet", "Ops-Core Fast MT SUPER HIGH CUT Helmet", "ZSh-1-2M helmet", "Highcom Striker ULACH IIIA helmet", "Crye Precision Airframe Tan", "Maska 1Sch helmet", "Altyn helmet", "Vulkan-5 (LShZ-5) heavy helmet", "Kinda cowboy hat", "Ushanka ear-flap cap", "Miltec panama hat", "Beanie", "Kotton beanie", "Army cap", "Baseball cap", "Ded Moroz hat", "Police cap", "Tactical fleece hat", "UX PRO Beanie", "USEC baseball cap", "BEAR baseball cap", "USEC baseball cap black", "BEAR baseball cap black", "EmerCom cap", "Pompon hat", "Bandana", "Ski hat with holes for eyes"]
+   helmetStatus= ["What you want", "Group Decides", "NVG", "Facemask up only", "Facemask down only", "Barebones"]
+   bodyArmor= ["What you want", "None", "Group Decides", "Module-3M bodyarmor", "PACA Soft Armor", "MF-UNTAR armor vest", "6B23-1 armor (digital flora pattern)", "BNTI Kirasa-N armor", "Highcom Trooper TFO armor (multicam)", "6B13 assault armor", "6B23-2 armor (mountain flora pattern)", "BNTI Gzhel-K armor", "FORT Redut-M body armor", "6B13 M assault armor (tan)", "IOTV Gen4 armor (high mobility kit)", "IOTV Gen4 armor (assault kit)", "IOTV Gen4 armor (full protection)", "FORT Redut-T5 body armor", "Zhuk-6a heavy armor", "6B43 6A Armor"]
+   rig= ["What you want", "None", "Group Decides", "6B5-16 armored rig", "ANA Tactical M2 armored rig", "ANA Tactical M1 armored rig", "Wartech TV-110 plate carrier", "6B5-15 armored rig", "5.11 Tactec plate carrier", "Scav Vest", "BlackRock chest rig", "Crye Precision AVS chest rig", "Wartech gear rig (TV-109, TV-106)", "UMTBS 6sh112 Scout-Sniper", "Triton M43-A Chest Harness", "Blackhawk! Commando Chest Harness", "Wartech MK3 chest rig (TV-104)", "ANA Tactical Alpha chest rig", "Belt-A + Belt-B gear rig"]
+   backpack= ["What you want", "Group Decides", "Mystery Ranch Blackjack 50 backpack (multicam)", "SSO Attack 2 raid backpack", "Pilgrim Tourist Backpack", "3V G Paratus 3-Day Operator's Tactical Backpack", "Camelbak Tri-Zip Backpack", "Ana tactical Beta 2 battle backpack", "Wartech Berkut VV-102 backpack", "Scav Backpack", "Flyye MBSS Backpack", "Duffle bag", "Transformer Bag", "VKBO army bag", "Tactical sling bag"]
+   result= (f'{random.choice(gun)}')
+   result2= (f'{random.choice(weaponStatus)}')
+   result3= (f'{random.choice(helmet)}')
+   result4= (f'{random.choice(helmetStatus)}')
+   result5= (f'{random.choice(bodyArmor)}')
+   result6= (f'{random.choice(rig)}')
+   result7= (f'{random.choice(backpack)}')
+   Loadoutembed= discord.Embed(
+        title = 'Your loadout is', 
+        colour = discord.Colour.magenta()
+   )
+   Loadoutembed.add_field(name= "Gun",value= result, inline= False)
+   Loadoutembed.add_field(name= "Gun Status",value= result2, inline= False)
+   Loadoutembed.add_field(name= "Helmet",value= result3, inline= False)    
+   Loadoutembed.add_field(name= "Helmet Status",value= result4, inline= False)    
+   Loadoutembed.add_field(name= "Armor",value= result5, inline= False)    
+   Loadoutembed.add_field(name="Rig",value= result6, inline= False)    
+   Loadoutembed.add_field(name="Bag",value= result7, inline= False)
+   Loadoutembed.add_field(name= "challenge rule if you want it do",value= "!Special", inline= False)
+   Loadoutembed.set_author(name= ctx.message.author)
+   await ctx.send(embed=Loadoutembed)
+# !Special -Special rule to follow in the next raid
+@client.command(aliases=['special'])
+async def Special(ctx):
+    "adds special rule to follow in the next raid"
+    special= ["No trading out your gear at all stick with original loadout", "Group Decides", "No repacking","no sights (including iron sights) at beginning of the raid (must scavenge for one)", "Single-fire only", "Cant put anything from raid in your container", "Drop everything you brought in at end of raid (can go in a bush plus fill your container)", "Take full load out of first scav or player you kill and ditch yours", "No sights at all (no irons sight or anything all raid)", "Begin with iron sight sights (must scavenge)", "Reroll (load out or special)", "No insuring", "smallest mag size", "largest mag size", "free pass"]
+    reply= (f'{random.choice(special)}')
+    Specialembed= discord.Embed(
+         title= 'Your special is',
+         colour = discord.Colour.gold(),
+         description= reply
+    )
+    Specialembed.set_author(name= ctx.message.author)
+    await ctx.send(embed=Specialembed)
+# !Ammo
+@client.command(aliases=['ammo'])
+async def Ammo(ctx):
+    "Helpful ammo chart"
+    Ammoembed = discord.Embed()
+    Ammoembed.set_image(url='https://i.redd.it/ehibdscbgh431.png')
+    await ctx.send(embed=Ammoembed)
+# !Baptism
+@client.command(aliases=['baptism'])
+async def Baptism(ctx):
+    "I got nothing about this one"
+    await ctx.send('What the darn-diddily-doodily did you just say about me, you little witcharooney? I’ll have you know I graduated top of my class at Springfield Bible College, and I’ve been involved in numerous secret mission trips in Capital City, and I have over 300 confirmed baptisms. I am trained in the Old Testament and I’m the top converter in the entire church mission group. You are nothing to me but just another heathen. I will cast your sins out with precision the likes of which has never been seen before in Heaven, mark my diddily-iddilly words. You think you can get away with saying that blasphemy to me over the Internet? Think again, friendarino. As we speak I am contacting my secret network of evangelists across Springfield and your IP is being traced by God right now so you better prepare for the storm, maggorino. The storm that wipes out the diddily little thing you call your life of sin. You’re going to Church, kiddily-widdily. Jesus can be anywhere, anytime, and he can turn you to the Gospel in over infinity ways, and that’s just with his bare hands. Not only am I extensively trained in preaching to nonbelievers, but I have access to the entire dang-diddily Bible collection of the Springfield Bible College and I will use it to its full extent to wipe your sins away off the face of the continent, you diddily-doo satan-worshipper. If only you could have known what holy retribution your little “clever” comment was about to bring down upon you from the Heavens, maybe you would have held your darn-diddily-fundgearoo tongue. But you couldn’t, you didn’t, and now you’re clean of all your sins, you widdillo-skiddily neighborino. I will sing hymns of praise all over you and you will drown in the love of Christ. You’re farn-foodily-flank-fiddily reborn, kiddo-diddily.')
+#!Quest
+@client.command(aliases=['quest'])
+async def Quest(ctx):
+    input_file = open ('Quest.json')
+    json_array = json.load(input_file)
+    store_list= []
+    data = {"Quest": None, "Type": None, "Map": None, "Objective": None, "StatRewards": None, "ItemRewards": None}
+    for item in json_array:
+        print (Quest['Name'])
+    #     data['Quest'] = item['Quest']
+    #     data['Type'] = item['Type']
+    #     data['Map'] = item['Map']
+    #     data['Objective'] = item['Objective']
+    #     data['StatRewards']= item['StatRewards']
+    #     data['ItemRewards']= item['ItemRewards']
+    #     store_list.append(data)
+    # print (data)
+    # Questembed = discord.Embed()
+    # Questembed.set_author(name= ctx.message.author)
+    # Questembed.add_field(name= "Quest", value= data['Quest'])
+    # Questembed.add_field(name= "Type", value= data['Type'])
+    # Questembed.add_field(name= "Map", value= data['Map'])
+    # Questembed.add_field(name= "Objective", value= data['Objective'])
+    # Questembed.add_field(name= "Stat Rewards", value= data['StatRewards'])
+    # Questembed.add_field(name= "Item Rewards", value= data['ItemRewards'])
+    # await ctx.send(embed= Questembed)
+
+
+
+client.run(TOKEN)
